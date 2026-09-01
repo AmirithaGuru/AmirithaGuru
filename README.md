@@ -21,7 +21,7 @@
 
 </div>
 
-<br/>
+<hr/>
 
 <div align="center">
 
@@ -37,7 +37,7 @@ I build and secure cloud infrastructure — policy-as-code guardrails, IAM & dat
 
 **Contact:** [gurupandianamirithavarshini@gmail.com](mailto:gurupandianamirithavarshini@gmail.com)
 
-<br/>
+<hr/>
 
 <div align="center">
 
@@ -64,13 +64,13 @@ Own two CIS Controls workstreams as part of the org's 1.0 MVP Release security i
 - Mentored 20+ students in technical concepts, adapting instruction to individual learning gaps
 - Tracked student progress through iterative assessments
 
-<br/>
+<hr/>
 
 <div align="center">
 
 ## Certifications
 
-<div align="center">
+</div>
 
 <a href="https://www.comptia.org/certifications/security">
 <img src="https://img.shields.io/badge/CompTIA-Security%2B-E4002B?style=for-the-badge&logo=comptia&logoColor=white" />
@@ -79,7 +79,7 @@ Own two CIS Controls workstreams as part of the org's 1.0 MVP Release security i
 <img src="https://img.shields.io/badge/AWS-Certified%20AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </a>
 
-<br/>
+<hr/>
 
 <div align="center">
 
@@ -174,7 +174,7 @@ Own two CIS Controls workstreams as part of the org's 1.0 MVP Release security i
 
 </div>
 
-<br/>
+<hr/>
 
 <div align="center">
 
@@ -249,7 +249,7 @@ Published research (IJNRD, 2023) — an information-security advisory chatbot us
 </tr>
 </table>
 
-<br/>
+<hr/>
 
 <div align="center">
 
