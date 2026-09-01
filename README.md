@@ -44,7 +44,7 @@ I build and secure cloud infrastructure — policy-as-code guardrails, IAM & dat
 
 ## Certifications
 
-</div>
+<div align="center">
 
 <a href="https://www.comptia.org/certifications/security">
 <img src="https://img.shields.io/badge/CompTIA-Security%2B-E4002B?style=for-the-badge&logo=comptia&logoColor=white" />
