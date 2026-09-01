@@ -77,7 +77,19 @@ I build and secure cloud infrastructure — policy-as-code guardrails, IAM & dat
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 <br/><br/>
-<sub>EC2 · S3 · IAM · Lambda · EventBridge · CloudTrail · CloudWatch · GuardDuty · Security Hub · VPC · KMS · RDS · SNS</sub>
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logoColor=white)
+![S3](https://img.shields.io/badge/S3-FF9900?style=flat-square&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-FF9900?style=flat-square&logoColor=white)
+![Lambda](https://img.shields.io/badge/LAMBDA-FF9900?style=flat-square&logoColor=white)
+![EventBridge](https://img.shields.io/badge/EVENTBRIDGE-FF9900?style=flat-square&logoColor=white)
+![CloudTrail](https://img.shields.io/badge/CLOUDTRAIL-FF9900?style=flat-square&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CLOUDWATCH-FF9900?style=flat-square&logoColor=white)
+![GuardDuty](https://img.shields.io/badge/GUARDDUTY-FF9900?style=flat-square&logoColor=white)
+![Security Hub](https://img.shields.io/badge/SECURITY%20HUB-FF9900?style=flat-square&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-FF9900?style=flat-square&logoColor=white)
+![KMS](https://img.shields.io/badge/KMS-FF9900?style=flat-square&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-FF9900?style=flat-square&logoColor=white)
+![SNS](https://img.shields.io/badge/SNS-FF9900?style=flat-square&logoColor=white)
 
 <br/>
 
@@ -88,7 +100,10 @@ I build and secure cloud infrastructure — policy-as-code guardrails, IAM & dat
 ![Wireshark](https://img.shields.io/badge/WIRESHARK-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-CC0000?style=for-the-badge)
 <br/><br/>
-<sub>Snort (IDS/IPS) · tcpdump · Incident Response · Penetration Testing</sub>
+![Snort](https://img.shields.io/badge/SNORT%20(IDS%2FIPS)-CC0000?style=flat-square)
+![tcpdump](https://img.shields.io/badge/TCPDUMP-CC0000?style=flat-square)
+![Incident Response](https://img.shields.io/badge/INCIDENT%20RESPONSE-CC0000?style=flat-square)
+![Penetration Testing](https://img.shields.io/badge/PENETRATION%20TESTING-CC0000?style=flat-square)
 
 <br/>
 
@@ -98,31 +113,8 @@ I build and secure cloud infrastructure — policy-as-code guardrails, IAM & dat
 ![OPA/Rego](https://img.shields.io/badge/OPA%2FREGO-7D9199?style=for-the-badge&logo=openpolicyagent&logoColor=white)
 ![Bandit](https://img.shields.io/badge/BANDIT-FFD43B?style=for-the-badge&logo=python&logoColor=black)
 <br/><br/>
-<sub>CIS Controls · NIST CSF · Agile/Scrum</sub>
-
-<br/>
-
-**Networking**
-<br/>
-![Cisco](https://img.shields.io/badge/CISCO%20PACKET%20TRACER-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![EIGRP/OSPF](https://img.shields.io/badge/EIGRP%20%2F%20OSPF-4B8BBE?style=for-the-badge)
-![VLANs](https://img.shields.io/badge/VLANS-4B8BBE?style=for-the-badge)
-<br/><br/>
-<sub>TCP/IP · HTTP · SSH · SMB · LDAP · FTP · DNS</sub>
-
-<br/>
-
-**Operating Systems**
-<br/>
-![Windows](https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-<br/>
-
-**Backend**
-<br/>
-![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
+![CIS Controls](https://img.shields.io/badge/CIS%20CONTROLS-0074E4?style=flat-square)
+![NIST
 </div>
 <div align="center">
 
