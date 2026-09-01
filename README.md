@@ -29,14 +29,17 @@
 
 </div>
 
-I build and secure cloud infrastructure — policy-as-code guardrails, IAM & data-protection controls, and detection engineering on AWS. **MS Cybersecurity** from California State University, Dominguez Hills (**GPA 3.9/4.0**) | **Graduation:** December 2025. Also hold a **B.Tech in Information Security & Digital Forensics** from Dr. MGR Educational and Research Institute (May 2023).
+**I build and secure cloud infrastructure: policy-as-code guardrails, IAM and data-protection controls, and detection engineering on AWS.**
+
+I'm completing my MS in Cybersecurity at California State University, Dominguez Hills (GPA 3.9/4.0), with a B.Tech in Information Security and Digital Forensics before that. As a Volunteer DevSecOps Engineer at Saayam For All, I own two CIS Controls workstreams on their production AWS environment: access control/identity hardening and data protection via KMS encryption, work that's shaped how I think about security in practice, not just in theory.
+
+Outside of that, I like building things that prove out a concept end to end: an AWS auto-remediation pipeline, an LLM-assisted SOC triage tool, side-by-side threat-hunting labs comparing Splunk and Wazuh. I'm CompTIA Security+ and AWS Certified AI Practitioner certified, and I'm currently looking for DevSecOps, Cloud Security Engineering, or SOC Analyst roles where I can keep doing this kind of work at a bigger scale.
 
 **Key Projects:** DriftGuard (policy-as-code + auto-remediation for AWS) · AI-Augmented SOC Triage (LLM-enriched Splunk alert triage) · Threat Hunting & EDR Simulation (Sysmon+Splunk vs. Wazuh XDR)
 
 **Looking For:** DevSecOps · Cloud Security Engineering · SOC Analyst roles
 
 **Contact:** [gurupandianamirithavarshini@gmail.com](mailto:gurupandianamirithavarshini@gmail.com)
-
 <hr/>
 
 <div align="center">
@@ -70,12 +73,12 @@ Own two CIS Controls workstreams as part of the org's 1.0 MVP Release security i
 
 ## Certifications
 
-<div align="center">
+</div>
 
-<a href="https://www.comptia.org/certifications/security">
+<a href="https://cp.certmetrics.com/comptia/en/public/verify/credential/HG01VMBTJ1Q41W9V">
 <img src="https://img.shields.io/badge/CompTIA-Security%2B-E4002B?style=for-the-badge&logo=comptia&logoColor=white" />
 </a>
-<a href="https://aws.amazon.com/certification/certified-ai-practitioner/">
+<a href="https://www.credly.com/badges/6f5f26a6-d0dd-4310-a2b9-3920718a0e29/public_url">
 <img src="https://img.shields.io/badge/AWS-Certified%20AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </a>
 
