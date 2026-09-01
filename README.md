@@ -29,7 +29,7 @@
 
 </div>
 
-I build and secure cloud infrastructure: policy-as-code guardrails, IAM and data-protection controls, and detection engineering on AWS.
+**I build and secure cloud infrastructure: policy-as-code guardrails, IAM and data-protection controls, and detection engineering on AWS.**
 
 I graduated with a Master's Degree in Cybersecurity from California State University, Dominguez Hills (GPA 3.9/4.0), after earning a B.Tech in Information Security and Digital Forensics. As a Volunteer DevSecOps Engineer at Saayam For All, I contribute to security hardening across a live production AWS environment, collaborating with engineers on identity management and data protection, work that's grounded my understanding of security in practice rather than just in theory.
 
