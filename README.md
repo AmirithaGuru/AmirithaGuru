@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" width="100%"/>
+<img src="banner(1).svg" width="100%"/>
 
 <a href="https://www.linkedin.com/in/amirithavarshinigurupandian">
 <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
