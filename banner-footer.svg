@@ -1,0 +1,44 @@
+<svg width="1200" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="nightSkyFooter" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0b0c2a" />
+      <stop offset="45%" stop-color="#1b1f4b" />
+      <stop offset="100%" stop-color="#3a2d63" />
+    </linearGradient>
+    <radialGradient id="petalGradFooter" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#ffd9e8" />
+      <stop offset="100%" stop-color="#ff9ec4" />
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="120" fill="url(#nightSkyFooter)" />
+
+  <circle cx="120" cy="20" r="1.4" fill="#ffffff"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="3s" repeatCount="indefinite" /></circle>
+  <circle cx="260" cy="35" r="1" fill="#ffffff"><animate attributeName="opacity" values="0.6;0.1;0.6" dur="2.4s" begin="0.4s" repeatCount="indefinite" /></circle>
+  <circle cx="500" cy="18" r="1.3" fill="#ffffff"><animate attributeName="opacity" values="0.3;0.8;0.3" dur="3.5s" begin="0.7s" repeatCount="indefinite" /></circle>
+  <circle cx="760" cy="30" r="1" fill="#ffffff"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="2.8s" begin="1s" repeatCount="indefinite" /></circle>
+  <circle cx="980" cy="15" r="1.4" fill="#ffffff"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="3.2s" begin="0.2s" repeatCount="indefinite" /></circle>
+  <circle cx="1120" cy="35" r="1" fill="#ffffff"><animate attributeName="opacity" values="0.6;0.15;0.6" dur="2.6s" begin="0.9s" repeatCount="indefinite" /></circle>
+
+  <ellipse cx="180" cy="70" rx="5" ry="8" fill="url(#petalGradFooter)" opacity="0.75">
+    <animateTransform attributeName="transform" type="translate" values="0,0; 12,35; 0,0" dur="7s" repeatCount="indefinite" />
+    <animateTransform attributeName="transform" type="rotate" values="30;390" dur="7s" repeatCount="indefinite" additive="sum" />
+  </ellipse>
+  <ellipse cx="620" cy="55" rx="4" ry="7" fill="url(#petalGradFooter)" opacity="0.7">
+    <animateTransform attributeName="transform" type="translate" values="0,0; -10,45; 0,0" dur="9s" begin="1.5s" repeatCount="indefinite" />
+    <animateTransform attributeName="transform" type="rotate" values="-20;340" dur="9s" begin="1.5s" repeatCount="indefinite" additive="sum" />
+  </ellipse>
+  <ellipse cx="1000" cy="70" rx="5" ry="8" fill="url(#petalGradFooter)" opacity="0.75">
+    <animateTransform attributeName="transform" type="translate" values="0,0; 18,30; 0,0" dur="6.5s" begin="0.8s" repeatCount="indefinite" />
+    <animateTransform attributeName="transform" type="rotate" values="60;420" dur="6.5s" begin="0.8s" repeatCount="indefinite" additive="sum" />
+  </ellipse>
+
+  <path fill="#0d1117" opacity="0.55">
+    <animate attributeName="d"
+             values="
+               M0,30 C300,0 900,55 1200,20 L1200,0 L0,0 Z;
+               M0,25 C300,50 900,5 1200,30 L1200,0 L0,0 Z;
+               M0,30 C300,0 900,55 1200,20 L1200,0 L0,0 Z"
+             dur="6s" repeatCount="indefinite" />
+  </path>
+</svg>
