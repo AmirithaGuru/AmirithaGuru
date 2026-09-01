@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner(1).svg" width="100%"/>
+<img src="banner (1).svg" width="100%"/>
 
 <a href="https://www.linkedin.com/in/amirithavarshinigurupandian">
 <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -264,3 +264,7 @@ Published research (IJNRD, 2023) — an information-security advisory chatbot us
 <a href="mailto:gurupandianamirithavarshini@gmail.com">
 <img src="https://img.shields.io/badge/-SEND%20AN%20EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+ <br/><br/>
+
+<img src="banner-footer.svg" width="100%"/>
