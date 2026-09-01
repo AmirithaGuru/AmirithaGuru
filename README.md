@@ -33,7 +33,7 @@
 
 I'm completing my MS in Cybersecurity at California State University, Dominguez Hills (GPA 3.9/4.0), with a B.Tech in Information Security and Digital Forensics before that. As a Volunteer DevSecOps Engineer at Saayam For All, I own two CIS Controls workstreams on their production AWS environment: access control/identity hardening and data protection via KMS encryption, work that's shaped how I think about security in practice, not just in theory.
 
-Outside of that, I like building things that prove out a concept end to end: an AWS auto-remediation pipeline, an LLM-assisted SOC triage tool, side-by-side threat-hunting labs comparing Splunk and Wazuh. I'm CompTIA Security+ and AWS Certified AI Practitioner certified, and I'm currently looking for DevSecOps, Cloud Security Engineering, or SOC Analyst roles where I can keep doing this kind of work at a bigger scale.
+Outside of that, I like building things that prove out a concept end-to-end: an AWS auto-remediation pipeline, an LLM-assisted SOC triage tool, side-by-side threat-hunting labs comparing Splunk and Wazuh. I'm CompTIA Security+ and AWS Certified AI Practitioner certified, and I'm currently looking for DevSecOps, Cloud Security Engineering, or SOC Analyst roles where I can keep doing this kind of work at a bigger scale.
 
 **Key Projects:** DriftGuard (policy-as-code + auto-remediation for AWS) · AI-Augmented SOC Triage (LLM-enriched Splunk alert triage) · Threat Hunting & EDR Simulation (Sysmon+Splunk vs. Wazuh XDR)
 
@@ -55,14 +55,14 @@ Outside of that, I like building things that prove out a concept end to end: an 
 
 Own two CIS Controls workstreams as part of the org's 1.0 MVP Release security initiative:
 
-- **CIS Control 2 (Access Control & Identity Management)** — auditing IAM users and service accounts across 148+ Lambda functions and EC2 instances, disabling dormant accounts, enforcing least-privilege access, and rolling out MFA for administrative access
+- **CIS Control 2 (Access Control & Identity Management)** - auditing IAM users and service accounts across 148+ Lambda functions and EC2 instances, disabling dormant accounts, enforcing least-privilege access, and rolling out MFA for administrative access
 - **CIS Control 3 (Data Protection & Encryption)** — classifying sensitive data, configuring access control lists, and encrypting data at rest via KMS across S3 and other storage
 - Collaborating with engineers through Agile sprints via GitHub Issues; work documented as reusable runbooks for the team
 
 <br/>
 
-### Academic Tutor — California State University, Dominguez Hills
-*January 2024 – May 2025 · Carson, CA*
+### Academic Tutor - California State University, Dominguez Hills
+*January 2024 - May 2025 · Carson, CA*
 
 - Mentored 20+ students in technical concepts, adapting instruction to individual learning gaps
 - Tracked student progress through iterative assessments
@@ -73,7 +73,7 @@ Own two CIS Controls workstreams as part of the org's 1.0 MVP Release security i
 
 ## Certifications
 
-</div>
+<div align="center">
 
 <a href="https://cp.certmetrics.com/comptia/en/public/verify/credential/HG01VMBTJ1Q41W9V">
 <img src="https://img.shields.io/badge/CompTIA-Security%2B-E4002B?style=for-the-badge&logo=comptia&logoColor=white" />
@@ -204,7 +204,7 @@ Guardrails-as-code for AWS — OPA/Rego policy gates block risky Terraform in CI
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-Enriches Splunk alerts with MITRE ATT&CK context and LLM reasoning — human-in-the-loop before any automated action.
+Enriches Splunk alerts with MITRE ATT&CK context and LLM reasoning - human-in-the-loop before any automated action.
 
 </td>
 <td width="33%" valign="top" align="center">
