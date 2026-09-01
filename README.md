@@ -29,17 +29,15 @@
 
 </div>
 
-**I build and secure cloud infrastructure: policy-as-code guardrails, IAM and data-protection controls, and detection engineering on AWS.**
+I build and secure cloud infrastructure: policy-as-code guardrails, IAM and data-protection controls, and detection engineering on AWS.
 
-I'm completing my MS in Cybersecurity at California State University, Dominguez Hills (GPA 3.9/4.0), with a B.Tech in Information Security and Digital Forensics before that. As a Volunteer DevSecOps Engineer at Saayam For All, I own two CIS Controls workstreams on their production AWS environment: access control/identity hardening and data protection via KMS encryption, work that's shaped how I think about security in practice, not just in theory.
+I graduated with a Master's Degree in Cybersecurity from California State University, Dominguez Hills (GPA 3.9/4.0), after earning a B.Tech in Information Security and Digital Forensics. As a Volunteer DevSecOps Engineer at Saayam For All, I contribute to security hardening across a live production AWS environment, collaborating with engineers on identity management and data protection, work that's grounded my understanding of security in practice rather than just in theory.
 
-Outside of that, I like building things that prove out a concept end-to-end: an AWS auto-remediation pipeline, an LLM-assisted SOC triage tool, side-by-side threat-hunting labs comparing Splunk and Wazuh. I'm CompTIA Security+ and AWS Certified AI Practitioner certified, and I'm currently looking for DevSecOps, Cloud Security Engineering, or SOC Analyst roles where I can keep doing this kind of work at a bigger scale.
+Outside of work, I build end-to-end security projects: an AWS auto-remediation pipeline, an LLM-assisted SOC triage tool, and Splunk vs. Wazuh threat-hunting labs. I'm CompTIA Security+ and AWS Certified AI Practitioner certified.
 
 **Key Projects:** DriftGuard (policy-as-code + auto-remediation for AWS) · AI-Augmented SOC Triage (LLM-enriched Splunk alert triage) · Threat Hunting & EDR Simulation (Sysmon+Splunk vs. Wazuh XDR)
 
 **Looking For:** DevSecOps · Cloud Security Engineering · SOC Analyst roles
-
-**Contact:** [gurupandianamirithavarshini@gmail.com](mailto:gurupandianamirithavarshini@gmail.com)
 <hr/>
 
 <div align="center">
