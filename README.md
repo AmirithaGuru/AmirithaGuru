@@ -11,7 +11,7 @@
 <a href="https://github.com/AmirithaGuru">
 <img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://github.com/AmirithaGuru/AmirithaGuru/blob/main/resume.pdf">
+<a href="https://github.com/AmirithaGuru/AmirithaGuru/blob/main/Amirithavarshini_Gurupandian_Resume%20.pdf">
 <img src="https://img.shields.io/badge/-RESUME-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
 </a>
 
