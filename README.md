@@ -1,8 +1,6 @@
 <div align="center">
 
-# Amirithavarshini Gurupandian
-
-**Cybersecurity Engineer | Cloud Security & Detection Engineering**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,14&height=200&section=header&text=Amirithavarshini%20Gurupandian&fontSize=36&fontColor=ffffff&desc=DevSecOps%20Engineer%20%7C%20Cloud%20Security%20%26%20Detection%20Engineering&descSize=16&descAlignY=55" width="100%"/>
 
 <a href="https://www.linkedin.com/in/amirithavarshinigurupandian">
 <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -36,7 +34,7 @@ I build and secure cloud infrastructure — policy-as-code guardrails, IAM &amp;
 
 <br/>
 
-**At Saayam For All**, I lead a CIS Control 3 data-protection initiative — classifying sensitive data across S3 buckets, implementing least-privilege IAM policies and KMS encryption at rest, and documenting it as a repeatable runbook. I also audit IAM roles and service-account ownership across 148+ Lambda functions and EC2 instances (CIS Control 2), collaborating with engineers through Agile sprints via GitHub Issues.
+**At Saayam For All**, I own two CIS Controls workstreams as part of the org's 1.0 MVP Release security initiative: **CIS Control 2 (Access Control &amp; Identity Management)** — auditing IAM users and service accounts, disabling dormant accounts, enforcing least-privilege access, and rolling out MFA for administrative access — and **CIS Control 3 (Data Protection &amp; Encryption)** — classifying sensitive data, configuring access control lists, and encrypting data at rest via KMS across S3 and other storage. Both are tracked and documented as reusable runbooks for the team.
 
 <br/><br/>
 
