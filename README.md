@@ -12,27 +12,25 @@
 <img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/CompTIA-Security%2B-E4002B?style=for-the-badge&logo=comptia&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-Certified%20AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-
-<br/><br/>
+<br/>
+<br/>
 
 <img src="https://img.shields.io/badge/ACTIVELY%20SEEKING-DEVSECOPS%20%7C%20CLOUD%20SECURITY%20%7C%20SOC-brightgreen?style=for-the-badge" />
 
 </div>
 
 <br/>
+<br/>
 
 ## 🎓 About Me
 
 I build and secure cloud infrastructure — policy-as-code guardrails, IAM &amp; data-protection controls, and detection engineering on AWS.
 
-|  |  |
+| | |
 |---|---|
 | 🎓 **MS Cybersecurity** | California State University, Dominguez Hills · GPA 3.9/4.0 · Dec 2025 |
 | 🎓 **B.Tech, Information Security &amp; Digital Forensics** | Dr. MGR Educational and Research Institute · May 2023 |
+| 📜 **Certifications** | CompTIA Security+ · AWS Certified AI Practitioner |
 | 💼 **Currently** | Volunteer DevSecOps Engineer @ Saayam For All |
 | 📚 **Previously** | Academic Tutor @ CSUDH — mentored 20+ students |
 | 🎯 **Looking for** | DevSecOps · Cloud Security Engineering · SOC Analyst roles |
@@ -56,6 +54,8 @@ I build and secure cloud infrastructure — policy-as-code guardrails, IAM &amp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 
+<br/>
+
 **Cloud & Infrastructure**
 <br/>
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -64,6 +64,9 @@ I build and secure cloud infrastructure — policy-as-code guardrails, IAM &amp;
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 <br/>
 <sub>EC2 · S3 · IAM · Lambda · EventBridge · CloudTrail · CloudWatch · GuardDuty · Security Hub · VPC · KMS · RDS · SNS</sub>
+
+<br/>
+<br/>
 
 **Operating Systems**
 <br/>
@@ -82,6 +85,9 @@ I build and secure cloud infrastructure — policy-as-code guardrails, IAM &amp;
 <br/>
 <sub>Snort (IDS/IPS) · tcpdump · Incident Response · Penetration Testing</sub>
 
+<br/>
+<br/>
+
 **Security Automation & Governance**
 <br/>
 ![Checkov](https://img.shields.io/badge/Checkov-0074E4?style=flat-square)
@@ -89,6 +95,9 @@ I build and secure cloud infrastructure — policy-as-code guardrails, IAM &amp;
 ![Bandit](https://img.shields.io/badge/Bandit-FFD43B?style=flat-square&logo=python&logoColor=black)
 <br/>
 <sub>CIS Controls · NIST CSF · Agile/Scrum</sub>
+
+<br/>
+<br/>
 
 **Networking**
 <br/>
@@ -179,11 +188,16 @@ Published research (IJNRD, 2023) — an information-security advisory chatbot us
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AmirithaGuru&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirithaGuru&theme=dark&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AmirithaGuru&show_icons=true&theme=dark&hide_border=true&count_private=true" width="90%"/>
+
+<br/>
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirithaGuru&theme=dark&hide_border=true" width="90%"/>
 
 </div>
 
+<br/>
 <br/>
 
 <div align="center">
@@ -198,6 +212,9 @@ Published research (IJNRD, 2023) — an information-security advisory chatbot us
 <a href="mailto:gurupandianamirithavarshini@gmail.com">
 <img src="https://img.shields.io/badge/-SEND%20AN%20EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+<br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,14&height=100&section=footer" width="100%"/>
 
