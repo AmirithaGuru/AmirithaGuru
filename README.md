@@ -70,7 +70,7 @@ Own two CIS Controls workstreams as part of the org's 1.0 MVP Release security i
 
 ## Certifications
 
-</div>
+<div align="center">
 
 <a href="https://www.comptia.org/certifications/security">
 <img src="https://img.shields.io/badge/CompTIA-Security%2B-E4002B?style=for-the-badge&logo=comptia&logoColor=white" />
@@ -254,7 +254,7 @@ Published research (IJNRD, 2023) — an information-security advisory chatbot us
 
 ## Let's Connect
 
-</div>
+<div align="center">
 
 **Open to DevSecOps · Cloud Security · SOC Analyst roles**
 
