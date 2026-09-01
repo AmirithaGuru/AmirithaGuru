@@ -14,11 +14,17 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/ACTIVELY%20SEEKING-DEVSECOPS%20%7C%20CLOUD%20SECURITY%20%7C%20SOC-brightgreen?style=for-the-badge" />
+**Open to DevSecOps · Cloud Security Engineering · SOC Analyst roles**
 
-<br/><br/>
+</div>
+
+<br/>
+
+<div align="center">
 
 ## 🎓 About Me
+
+</div>
 
 I build and secure cloud infrastructure — policy-as-code guardrails, IAM &amp; data-protection controls, and detection engineering on AWS.
 
@@ -32,13 +38,15 @@ I build and secure cloud infrastructure — policy-as-code guardrails, IAM &amp;
 <br/>
 🎯 **Looking for** — DevSecOps · Cloud Security Engineering · SOC Analyst roles
 
-<br/>
-
 **At Saayam For All**, I own two CIS Controls workstreams as part of the org's 1.0 MVP Release security initiative: **CIS Control 2 (Access Control &amp; Identity Management)** — auditing IAM users and service accounts, disabling dormant accounts, enforcing least-privilege access, and rolling out MFA for administrative access — and **CIS Control 3 (Data Protection &amp; Encryption)** — classifying sensitive data, configuring access control lists, and encrypting data at rest via KMS across S3 and other storage. Both are tracked and documented as reusable runbooks for the team.
 
-<br/><br/>
+<br/>
+
+<div align="center">
 
 ## 📜 Certifications
+
+</div>
 
 <a href="https://www.comptia.org/certifications/security">
 <img src="https://img.shields.io/badge/CompTIA-Security%2B-E4002B?style=for-the-badge&logo=comptia&logoColor=white" />
@@ -47,9 +55,13 @@ I build and secure cloud infrastructure — policy-as-code guardrails, IAM &amp;
 <img src="https://img.shields.io/badge/AWS-Certified%20AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </a>
 
-<br/><br/>
+<br/>
+
+<div align="center">
 
 ## 🛠️ Technical Skills
+
+</div>
 
 **Languages & Scripting**
 <br/>
@@ -60,8 +72,6 @@ I build and secure cloud infrastructure — policy-as-code guardrails, IAM &amp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 
-<br/>
-
 **Cloud & Infrastructure**
 <br/>
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -70,8 +80,6 @@ I build and secure cloud infrastructure — policy-as-code guardrails, IAM &amp;
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 <br/>
 <sub>EC2 · S3 · IAM · Lambda · EventBridge · CloudTrail · CloudWatch · GuardDuty · Security Hub · VPC · KMS · RDS · SNS</sub>
-
-<br/>
 
 **Security Monitoring & SIEM**
 <br/>
@@ -82,8 +90,6 @@ I build and secure cloud infrastructure — policy-as-code guardrails, IAM &amp;
 <br/>
 <sub>Snort (IDS/IPS) · tcpdump · Incident Response · Penetration Testing</sub>
 
-<br/>
-
 **Security Automation & Governance**
 <br/>
 ![Checkov](https://img.shields.io/badge/Checkov-0074E4?style=flat-square)
@@ -91,8 +97,6 @@ I build and secure cloud infrastructure — policy-as-code guardrails, IAM &amp;
 ![Bandit](https://img.shields.io/badge/Bandit-FFD43B?style=flat-square&logo=python&logoColor=black)
 <br/>
 <sub>CIS Controls · NIST CSF · Agile/Scrum</sub>
-
-<br/>
 
 **Networking**
 <br/>
@@ -102,22 +106,22 @@ I build and secure cloud infrastructure — policy-as-code guardrails, IAM &amp;
 <br/>
 <sub>TCP/IP · HTTP · SSH · SMB · LDAP · FTP · DNS</sub>
 
-<br/>
-
 **Operating Systems**
 <br/>
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-<br/>
-
 **Backend**
 <br/>
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-<br/><br/>
+<br/>
+
+<div align="center">
 
 ## 🚀 Featured Projects
+
+</div>
 
 <table>
 <tr>
@@ -186,9 +190,13 @@ Published research (IJNRD, 2023) — an information-security advisory chatbot us
 </tr>
 </table>
 
-<br/><br/>
+<br/>
+
+<div align="center">
 
 ## 📫 Let's Connect
+
+</div>
 
 **Open to DevSecOps · Cloud Security · SOC Analyst roles**
 
@@ -198,5 +206,3 @@ Published research (IJNRD, 2023) — an information-security advisory chatbot us
 <a href="mailto:gurupandianamirithavarshini@gmail.com">
 <img src="https://img.shields.io/badge/-SEND%20AN%20EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-</div>
