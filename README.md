@@ -28,11 +28,7 @@
 
 I build and secure cloud infrastructure — policy-as-code guardrails, IAM & data-protection controls, and detection engineering on AWS. **MS Cybersecurity** from California State University, Dominguez Hills (**GPA 3.9/4.0**) | **Graduation:** December 2025. Also hold a **B.Tech in Information Security & Digital Forensics** from Dr. MGR Educational and Research Institute (May 2023).
 
-**Current:** Volunteer DevSecOps Engineer at Saayam For All. I own two CIS Controls workstreams as part of the org's 1.0 MVP Release security initiative: **CIS Control 2 (Access Control & Identity Management)** — auditing IAM users and service accounts, disabling dormant accounts, enforcing least-privilege access, and rolling out MFA for administrative access — and **CIS Control 3 (Data Protection & Encryption)** — classifying sensitive data, configuring access control lists, and encrypting data at rest via KMS across S3 and other storage. Both are tracked and documented as reusable runbooks for the team.
-
 **Key Projects:** DriftGuard (policy-as-code + auto-remediation for AWS) · AI-Augmented SOC Triage (LLM-enriched Splunk alert triage) · Threat Hunting & EDR Simulation (Sysmon+Splunk vs. Wazuh XDR)
-
-**Previously:** Academic Tutor at CSUDH — mentored 20+ students in technical concepts, adapting instruction to individual learning gaps.
 
 **Looking For:** DevSecOps · Cloud Security Engineering · SOC Analyst roles
 
@@ -40,6 +36,30 @@ I build and secure cloud infrastructure — policy-as-code guardrails, IAM & dat
 
 <br/>
 
+<div align="center">
+
+## Experience
+
+</div>
+
+### Volunteer DevSecOps Engineer — Saayam For All
+*February 2026 – Present · Remote, CA*
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![IAM](https://img.shields.io/badge/IAM-FF9900?style=flat-square&logoColor=white) ![KMS](https://img.shields.io/badge/KMS-FF9900?style=flat-square&logoColor=white)
+
+Own two CIS Controls workstreams as part of the org's 1.0 MVP Release security initiative:
+
+- **CIS Control 2 (Access Control & Identity Management)** — auditing IAM users and service accounts across 148+ Lambda functions and EC2 instances, disabling dormant accounts, enforcing least-privilege access, and rolling out MFA for administrative access
+- **CIS Control 3 (Data Protection & Encryption)** — classifying sensitive data, configuring access control lists, and encrypting data at rest via KMS across S3 and other storage
+- Collaborating with engineers through Agile sprints via GitHub Issues; work documented as reusable runbooks for the team
+
+<br/>
+
+### Academic Tutor — California State University, Dominguez Hills
+*January 2024 – May 2025 · Carson, CA*
+
+- Mentored 20+ students in technical concepts, adapting instruction to individual learning gaps
+- Tracked student progress through iterative assessments 
 <div align="center">
 
 ## Certifications
