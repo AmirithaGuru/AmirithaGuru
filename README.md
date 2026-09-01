@@ -59,62 +59,71 @@ I build and secure cloud infrastructure — policy-as-code guardrails, IAM & dat
 
 ## Technical Skills
 
-</div>
-
 **Languages & Scripting**
 <br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/POWERSHELL-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+
+<br/>
 
 **Cloud & Infrastructure**
 <br/>
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-<br/>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/TERRAFORM-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+<br/><br/>
 <sub>EC2 · S3 · IAM · Lambda · EventBridge · CloudTrail · CloudWatch · GuardDuty · Security Hub · VPC · KMS · RDS · SNS</sub>
+
+<br/>
 
 **Security Monitoring & SIEM**
 <br/>
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-3AA5DC?style=flat-square&logo=wazuh&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-CC0000?style=flat-square)
-<br/>
+![Splunk](https://img.shields.io/badge/SPLUNK-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Wazuh](https://img.shields.io/badge/WAZUH-3AA5DC?style=for-the-badge&logo=wazuh&logoColor=white)
+![Wireshark](https://img.shields.io/badge/WIRESHARK-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-CC0000?style=for-the-badge)
+<br/><br/>
 <sub>Snort (IDS/IPS) · tcpdump · Incident Response · Penetration Testing</sub>
+
+<br/>
 
 **Security Automation & Governance**
 <br/>
-![Checkov](https://img.shields.io/badge/Checkov-0074E4?style=flat-square)
-![OPA/Rego](https://img.shields.io/badge/OPA%2FRego-7D9199?style=flat-square&logo=openpolicyagent&logoColor=white)
-![Bandit](https://img.shields.io/badge/Bandit-FFD43B?style=flat-square&logo=python&logoColor=black)
-<br/>
+![Checkov](https://img.shields.io/badge/CHECKOV-0074E4?style=for-the-badge)
+![OPA/Rego](https://img.shields.io/badge/OPA%2FREGO-7D9199?style=for-the-badge&logo=openpolicyagent&logoColor=white)
+![Bandit](https://img.shields.io/badge/BANDIT-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+<br/><br/>
 <sub>CIS Controls · NIST CSF · Agile/Scrum</sub>
+
+<br/>
 
 **Networking**
 <br/>
-![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![EIGRP/OSPF](https://img.shields.io/badge/EIGRP_%2F_OSPF-4B8BBE?style=flat-square)
-![VLANs](https://img.shields.io/badge/VLANs-4B8BBE?style=flat-square)
-<br/>
+![Cisco](https://img.shields.io/badge/CISCO%20PACKET%20TRACER-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![EIGRP/OSPF](https://img.shields.io/badge/EIGRP%20%2F%20OSPF-4B8BBE?style=for-the-badge)
+![VLANs](https://img.shields.io/badge/VLANS-4B8BBE?style=for-the-badge)
+<br/><br/>
 <sub>TCP/IP · HTTP · SSH · SMB · LDAP · FTP · DNS</sub>
+
+<br/>
 
 **Operating Systems**
 <br/>
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<br/>
 
 **Backend**
 <br/>
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-<br/>
-
+</div>
 <div align="center">
 
 ## Featured Projects
