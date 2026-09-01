@@ -22,29 +22,27 @@
 
 <div align="center">
 
-## 🎓 About Me
+## About Me
 
 </div>
 
-I build and secure cloud infrastructure — policy-as-code guardrails, IAM &amp; data-protection controls, and detection engineering on AWS.
+I build and secure cloud infrastructure — policy-as-code guardrails, IAM & data-protection controls, and detection engineering on AWS. **MS Cybersecurity** from California State University, Dominguez Hills (**GPA 3.9/4.0**) | **Graduation:** December 2025. Also hold a **B.Tech in Information Security & Digital Forensics** from Dr. MGR Educational and Research Institute (May 2023).
 
-🎓 **MS Cybersecurity** — California State University, Dominguez Hills · GPA 3.9/4.0 · Dec 2025
-<br/>
-🎓 **B.Tech, Information Security &amp; Digital Forensics** — Dr. MGR Educational and Research Institute · May 2023
-<br/>
-💼 **Currently** — Volunteer DevSecOps Engineer @ Saayam For All
-<br/>
-📚 **Previously** — Academic Tutor @ CSUDH, mentored 20+ students
-<br/>
-🎯 **Looking for** — DevSecOps · Cloud Security Engineering · SOC Analyst roles
+**Current:** Volunteer DevSecOps Engineer at Saayam For All. I own two CIS Controls workstreams as part of the org's 1.0 MVP Release security initiative: **CIS Control 2 (Access Control & Identity Management)** — auditing IAM users and service accounts, disabling dormant accounts, enforcing least-privilege access, and rolling out MFA for administrative access — and **CIS Control 3 (Data Protection & Encryption)** — classifying sensitive data, configuring access control lists, and encrypting data at rest via KMS across S3 and other storage. Both are tracked and documented as reusable runbooks for the team.
 
-**At Saayam For All**, I own two CIS Controls workstreams as part of the org's 1.0 MVP Release security initiative: **CIS Control 2 (Access Control &amp; Identity Management)** — auditing IAM users and service accounts, disabling dormant accounts, enforcing least-privilege access, and rolling out MFA for administrative access — and **CIS Control 3 (Data Protection &amp; Encryption)** — classifying sensitive data, configuring access control lists, and encrypting data at rest via KMS across S3 and other storage. Both are tracked and documented as reusable runbooks for the team.
+**Key Projects:** DriftGuard (policy-as-code + auto-remediation for AWS) · AI-Augmented SOC Triage (LLM-enriched Splunk alert triage) · Threat Hunting & EDR Simulation (Sysmon+Splunk vs. Wazuh XDR)
+
+**Previously:** Academic Tutor at CSUDH — mentored 20+ students in technical concepts, adapting instruction to individual learning gaps.
+
+**Looking For:** DevSecOps · Cloud Security Engineering · SOC Analyst roles
+
+**Contact:** [gurupandianamirithavarshini@gmail.com](mailto:gurupandianamirithavarshini@gmail.com)
 
 <br/>
 
 <div align="center">
 
-## 📜 Certifications
+## Certifications
 
 </div>
 
@@ -59,7 +57,7 @@ I build and secure cloud infrastructure — policy-as-code guardrails, IAM &amp;
 
 <div align="center">
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 </div>
 
@@ -119,7 +117,7 @@ I build and secure cloud infrastructure — policy-as-code guardrails, IAM &amp;
 
 <div align="center">
 
-## 🚀 Featured Projects
+## Featured Projects
 
 </div>
 
@@ -194,7 +192,7 @@ Published research (IJNRD, 2023) — an information-security advisory chatbot us
 
 <div align="center">
 
-## 📫 Let's Connect
+## Let's Connect
 
 </div>
 
