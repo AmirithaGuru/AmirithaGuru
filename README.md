@@ -184,7 +184,7 @@ Own two CIS Controls workstreams as part of the org's 1.0 MVP Release security i
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 <h3>DriftGuard</h3>
 
 <a href="https://github.com/AmirithaGuru/driftguard"><img src="https://img.shields.io/badge/-VIEW%20PROJECT-6e40c9?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -194,7 +194,7 @@ Own two CIS Controls workstreams as part of the org's 1.0 MVP Release security i
 Guardrails-as-code for AWS — OPA/Rego policy gates block risky Terraform in CI; Lambda auto-remediates drift in near real-time.
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 <h3>AI-Augmented SOC Triage</h3>
 
 <a href="https://github.com/AmirithaGuru/soc-triage-ai"><img src="https://img.shields.io/badge/-VIEW%20PROJECT-6e40c9?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -204,7 +204,7 @@ Guardrails-as-code for AWS — OPA/Rego policy gates block risky Terraform in CI
 Enriches Splunk alerts with MITRE ATT&CK context and LLM reasoning — human-in-the-loop before any automated action.
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 <h3>Threat Hunting & EDR Simulation</h3>
 
 <a href="https://github.com/AmirithaGuru/threat-hunting-and-edr-simulation"><img src="https://img.shields.io/badge/-VIEW%20PROJECT-6e40c9?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -216,7 +216,7 @@ Two Windows 11 labs comparing detection approaches: custom Sysmon+Splunk SPL det
 </td>
 </tr>
 <tr>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 <h3>Enterprise Multi-Site Network Design</h3>
 
 <a href="https://github.com/AmirithaGuru/enterprise-multisite-network-design"><img src="https://img.shields.io/badge/-VIEW%20PROJECT-6e40c9?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -226,7 +226,7 @@ Two Windows 11 labs comparing detection approaches: custom Sysmon+Splunk SPL det
 Multi-site enterprise network — EIGRP routing, VLAN segmentation, and a redundant ISP core across two offices.
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 <h3>Automated Web App Security Scanning</h3>
 
 <a href="https://github.com/AmirithaGuru/automated-web-app-security-scanning"><img src="https://img.shields.io/badge/-VIEW%20PROJECT-6e40c9?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -236,7 +236,7 @@ Multi-site enterprise network — EIGRP routing, VLAN segmentation, and a redund
 Automated BurpSuite vulnerability scanning on AWS EC2 — cron-scheduled, encrypted S3 storage, CloudWatch alerting.
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 <h3>EIRA – A Cyberbot</h3>
 
 <a href="https://github.com/AmirithaGuru/eira-a-cyberbot"><img src="https://img.shields.io/badge/-VIEW%20PROJECT-6e40c9?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -248,7 +248,6 @@ Published research (IJNRD, 2023) — an information-security advisory chatbot us
 </td>
 </tr>
 </table>
-
 <hr/>
 
 <div align="center">
