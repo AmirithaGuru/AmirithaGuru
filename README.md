@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,14&height=200&section=header&text=Amirithavarshini%20Gurupandian&fontSize=36&fontColor=ffffff&desc=DevSecOps%20Engineer%20%7C%20Cloud%20Security%20%26%20Detection%20Engineering&descSize=16&descAlignY=55" width="100%"/>
+<img src="banner.svg" width="100%"/>
 
 <a href="https://www.linkedin.com/in/amirithavarshinigurupandian">
 <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
