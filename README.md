@@ -11,6 +11,9 @@
 <a href="https://github.com/AmirithaGuru">
 <img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<a href="https://github.com/AmirithaGuru/AmirithaGuru/blob/main/resume.pdf">
+<img src="https://img.shields.io/badge/-RESUME-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
+</a>
 
 <br/><br/>
 
@@ -59,12 +62,15 @@ Own two CIS Controls workstreams as part of the org's 1.0 MVP Release security i
 *January 2024 – May 2025 · Carson, CA*
 
 - Mentored 20+ students in technical concepts, adapting instruction to individual learning gaps
-- Tracked student progress through iterative assessments 
+- Tracked student progress through iterative assessments
+
+<br/>
+
 <div align="center">
 
 ## Certifications
 
-<div align="center">
+</div>
 
 <a href="https://www.comptia.org/certifications/security">
 <img src="https://img.shields.io/badge/CompTIA-Security%2B-E4002B?style=for-the-badge&logo=comptia&logoColor=white" />
@@ -134,8 +140,42 @@ Own two CIS Controls workstreams as part of the org's 1.0 MVP Release security i
 ![Bandit](https://img.shields.io/badge/BANDIT-FFD43B?style=for-the-badge&logo=python&logoColor=black)
 <br/><br/>
 ![CIS Controls](https://img.shields.io/badge/CIS%20CONTROLS-0074E4?style=flat-square)
-![NIST
+![NIST CSF](https://img.shields.io/badge/NIST%20CSF-0074E4?style=flat-square)
+![Agile/Scrum](https://img.shields.io/badge/AGILE%2FSCRUM-0074E4?style=flat-square)
+
+<br/>
+
+**Networking**
+<br/>
+![Cisco](https://img.shields.io/badge/CISCO%20PACKET%20TRACER-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![EIGRP/OSPF](https://img.shields.io/badge/EIGRP%20%2F%20OSPF-4B8BBE?style=for-the-badge)
+![VLANs](https://img.shields.io/badge/VLANS-4B8BBE?style=for-the-badge)
+<br/><br/>
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-4B8BBE?style=flat-square)
+![HTTP](https://img.shields.io/badge/HTTP-4B8BBE?style=flat-square)
+![SSH](https://img.shields.io/badge/SSH-4B8BBE?style=flat-square)
+![SMB](https://img.shields.io/badge/SMB-4B8BBE?style=flat-square)
+![LDAP](https://img.shields.io/badge/LDAP-4B8BBE?style=flat-square)
+![FTP](https://img.shields.io/badge/FTP-4B8BBE?style=flat-square)
+![DNS](https://img.shields.io/badge/DNS-4B8BBE?style=flat-square)
+
+<br/>
+
+**Operating Systems**
+<br/>
+![Windows](https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<br/>
+
+**Backend**
+<br/>
+![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
 </div>
+
+<br/>
+
 <div align="center">
 
 ## Featured Projects
